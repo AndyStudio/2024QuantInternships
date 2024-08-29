@@ -29,6 +29,7 @@ QT = Quantitative Trading
 | [Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement)|Chicago|[✅](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7594277002)|[✅](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7593503002)|||Very Small, Citadel Spinoff. Matt Godbolt (Yes, that godbolt), works here.|
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/)|Greenwich||✔️|✔️|||
 | [BAM](https://bamfunds.force.com/s/)||✔️|✔️||||
+| [BP](https://www.bp.com/en/global/corporate/careers/students-and-graduates/locations/united-states/intern-and-co-op-programs.html)|Chicago|✅| |✅||Need to finish a few questions and get matched to a few positions. |
 | [Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet)|Boston|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer-Intern--Summer-2025_R1117)|[✅](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher-Intern--Summer-2025_R1118)|||Fully Systematic.|
 | [Belvedere Trading](http://www.belvederetrading.com/jobs/)| Chicago|[✅](https://jobs.lever.co/belvederetrading/6841e5b2-65ad-4be1-9654-4565ba163cf8/apply)|✔️|[✅](https://jobs.lever.co/belvederetrading/123fcb8a-ad4b-4c12-8de7-87a3d22f531a/apply)|||
 | [Blackedge Capital](https://boards.greenhouse.io/blackedgecapital)| Chicago|✔️||✔️|||
